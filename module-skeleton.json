@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-communities-dart-desktop",
+  "capabilityKey": "liberusoftware/module-crm-communities",
+  "presentation": "dart-desktop",
+  "package": "module_crm_communities_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/crm/nextjs/communities.md",
+  "presentationPlan": "projects/crm/features/communities.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
